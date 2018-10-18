@@ -1,0 +1,36 @@
+body {
+    box-sizing: border-box;
+
+}
+
+.main-container {
+    /* background-image: url("https://www.bensound.com/bensound-img/endlessmotion.jpg");
+    background-size: cover; */
+    background-color: aquamarine;
+    font-size: 45px;
+    color: hotpink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+
+}
+
+#lyric-button {
+    margin-top: 50px;
+}
+
+#find-lyrics {
+    margin-top: 10px;
+}
+
+.form-title {
+    padding-top: 25px;
+}
+
+.lyric-container {
+    width: 70%;
+
+}
