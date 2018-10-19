@@ -3,7 +3,7 @@ $(document).ready(function(){
     //Define our event listener
     $("#find-lyrics").on("submit", function(e){
         e.preventDefault();
-        $(".lyric-container").text("loading...");
+        $(".lyric-container").text("just wait one second...");
     
         //listening fot a submit event, need to prevent the default
         //Declare variables to store the artist and song, aka the form inputs
