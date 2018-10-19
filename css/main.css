@@ -6,9 +6,9 @@ body {
 .main-container {
     /* background-image: url("https://www.bensound.com/bensound-img/endlessmotion.jpg");
     background-size: cover; */
-    background-color: aquamarine;
-    font-size: 45px;
-    color: hotpink;
+    background-color: #243B4A;
+    font-size: 20px;
+    color: #DEECF6;
     display: flex;
     flex-direction: column;
     align-items: center;
