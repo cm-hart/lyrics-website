@@ -11,7 +11,7 @@ $(document).ready(function(){
     var song = $("#song").val();
     var url = "https://api.lyrics.ovh/v1/" + artist +"/" + song + "";
     
-    
+    // great work, maybe n
     fetch(url).then(response => {
         var processedLyrics = response.json();
         return processedLyrics;
